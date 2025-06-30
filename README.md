@@ -1,18 +1,4 @@
-=== URL Pinger (website live check) ===
-Contributors: CodeSmart
-Tags: uptime, website monitor, ping, site monitor, down alert, admin, csv, cron
-Requires at least: 4.6
-Tested up to: 6.8
-Requires PHP: 5.6
-Stable tag: 1.20
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
-
-Check live/down status of URLs or Websites by pinging them on set intervals. Get notified if any site goes down. Import/export URLs via CSV. Easy admin interface.
-
-== Description ==
-
-**URL Pinger (website live check)** is an easy-to-use WordPress admin plugin to monitor the status of any number of websites or URLs. It pings your chosen URLs at set intervals and keeps a log of the results. If any are down, you'll receive an email notification.
+URL Pinger (website live check) is an easy-to-use WordPress admin plugin to monitor the status of any number of websites or URLs. It pings your chosen URLs at set intervals and keeps a log of the results. If any are down, you'll receive an email notification.
 
 **Key Features:**
 - Add, edit, or remove URLs to monitor.
